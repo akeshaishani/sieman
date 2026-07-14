@@ -1,4 +1,4 @@
-# Sieman
+# Sieman | A Company Website
 
 A modern, responsive corporate website built to showcase a company's services, projects, expertise, and brand identity.
 
